@@ -10,7 +10,6 @@ import threading
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import datetime
-# % matplotlib inline
 
 base_dir = os.path.join('./cell_images/cell_images/')
 
@@ -195,4 +194,4 @@ ax2.set_xlabel('Epoch')
 ax2.set_title('Loss')
 l2 = ax2.legend(loc="best")
 
-model.save('weights.h5') # saves model
+model.save('weights.h5')
