@@ -1,2 +1,1 @@
-# SiliconValleyHacks
-Submission code for Silicon Valley Hacks 2020.
+# Automated malaria diagnosis and 3D cell rendering with deep learning
